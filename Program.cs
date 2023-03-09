@@ -1,4 +1,6 @@
-﻿namespace Products
+﻿using System;
+
+namespace Products
 {
     class Program
     {
